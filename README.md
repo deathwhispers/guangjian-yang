@@ -1,5 +1,3 @@
-### Hello，World 👋
-
 <!--
 **guangjian-yang/guangjian-yang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,6 +15,7 @@ Here are some ideas to get you started:
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=guangjian-yang&show_icons=true&icon_color=388e3c&text_color=718096&bg_color=fafafa&hide_title=false" />
 
+### Hello，World 👋
 
 - :orange_book: 学习记录
 - :hammer: 一个平平无奇的Java攻城狮
